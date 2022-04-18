@@ -10,4 +10,4 @@ I'm calm and I like to solve problems
 ### 🧐 ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME THAT IS GIVEN US
 
 📍 Hilversum
-💻 Front-end engineer Javascript
+💻 Front-end
