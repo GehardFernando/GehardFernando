@@ -1,5 +1,7 @@
 # 💫 About Me:
 Ola, sou o Gehard Fernando, estudante de ADS, Brasileiro vivendo na Holanda. Hoje meu foco é em ser front-end, mas estou aberto para outras tecnologias<br>Amo video game<br>Amo musica<br>Amo astronomia<br>
+Hello, my name is Gehard Fernando, I am a student of ADS and Brazilian living in the Netherlands. My focus today is on being a front-end developer, but I am open to other technologies. <br>
+I love video games, <br> music, <br> and astronomy.
 
 
 ## 🌐 Socials:
