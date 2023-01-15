@@ -1,5 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Gehard Fernando</h1>
 <h3 align="center">frontend developer</h3>
+<p>Ola, sou o Gehard Fernando, estudante de ADS, Brasileiro vivendo na Holanda. Hoje meu foco é em ser front-end, mas estou aberto para outras tecnologias Amo video game Amo musica Amo astronomia Hello, my name is Gehard Fernando, I am a student of ADS and Brazilian living in the Netherlands. My focus today is on being a front-end developer, but I am open to other technologies. I love video games, music, and astronomy.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gehardfernando&label=Profile%20views&color=0e75b6&style=flat" alt="gehardfernando" /> </p>
 
